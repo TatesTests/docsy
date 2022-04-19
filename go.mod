@@ -1,4 +1,4 @@
-module github.com/google/docsy
+module github.com/TatesTests/docsy
 
 go 1.12
 
